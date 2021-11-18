@@ -1,9 +1,12 @@
-**Đây là link video train từ file vid_Yolov3_tk.ipynb**
+**Đây là link video tạo ra từ file vid_Yolov3_tk.ipynb**
 
 link cắt video train: https://youtu.be/QIjZn_fiS3M
 
-link train: https://drive.google.com/drive/folders/1DnPO98UZv9VIlkD36ePakI1euDJy1X6X?usp=sharing
+link video: https://drive.google.com/drive/folders/1DnPO98UZv9VIlkD36ePakI1euDJy1X6X?usp=sharing
 
+**Đây là link video tạo ra từ file code pytorch
+
+link video: https://drive.google.com/file/d/1VbqefqkIZEQZ7QZC7Ss9WR6Rrs1TLYGp/view?usp=sharing
 
 **Đây là ảnh từ file code pytorch
 
