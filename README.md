@@ -1,6 +1,6 @@
 **Đây là link video tạo ra từ file vid_Yolov3_tk.ipynb**
 
-link cắt video train: https://youtu.be/QIjZn_fiS3M
+link cắt video: https://youtu.be/QIjZn_fiS3M
 
 link video: https://drive.google.com/drive/folders/1DnPO98UZv9VIlkD36ePakI1euDJy1X6X?usp=sharing
 
